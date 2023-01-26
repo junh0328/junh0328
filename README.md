@@ -7,8 +7,6 @@
 ## 기술 블로그
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default)](https://junheedot.tistory.com/)
 
-## 이런 환경에 익숙해요 ✍🏼
-
 ## 언어
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,7 +19,13 @@
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+### Interested in
+
+```jsx
+const interests = ['SEO', 'Google Search Console', 'Google Analytics', 'Web performance optimization']
+```
 
 ## Contact me
 
 junh0328@naver.com 
+junhee@eazel.net
