@@ -33,5 +33,4 @@ const interests = [
 
 ## Contact me
 
-junh0328@naver.com <br/>
-junhee@eazel.net
+junh0328@naver.com
